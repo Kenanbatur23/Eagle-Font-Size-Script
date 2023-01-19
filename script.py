@@ -8,7 +8,6 @@ size= input("what size should fonts on pcb be : ")
 print("click where the eagle window is, script is going to start in 5 seconds...")
 sleep(5)
 
-
 hotkey("ctrl","a")
 hotkey("ctrl","c")
 
