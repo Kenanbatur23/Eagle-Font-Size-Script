@@ -6,8 +6,7 @@ print("welcome to the eagle script code for font setting")
 print("IMPORTANT: you must write '>' on command line of eagle ")
 size= input("what size should fonts on pcb be : ")
 print("click where the eagle window is, script is going to start in 5 seconds...")
-sleep(5)
-
+sleep(5)#
 hotkey("ctrl","a")
 hotkey("ctrl","c")
 
